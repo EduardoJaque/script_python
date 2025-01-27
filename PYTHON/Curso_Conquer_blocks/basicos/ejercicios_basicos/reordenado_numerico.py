@@ -1,0 +1,10 @@
+numero=input("ingrese un numero de mas de dos cifras ")
+print(numero[0:1])
+print(numero[1:2])
+print(numero[2:3])
+print(numero[3:4])
+print(numero[4:5])
+print(numero[5:6])
+
+numero2=input("ingrese un numero de mas de dos cifras ")
+print(numero2[::-1])
